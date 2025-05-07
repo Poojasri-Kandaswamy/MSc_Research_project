@@ -16,5 +16,5 @@ The following R scripts can be run for the analysis.
 3. volcano_plot.R : This script generates a volcano plot based on the results of the differential expression analysis.
 4. up_down gene.R : This script runs overrepresented gene analysis on upregulated and downregulated genes.
 
-GAI DECLARATION.docx : A document containing the general academic integrity declaration for the research.
+
 
